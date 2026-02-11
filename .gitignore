@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+dist/
+.angular/
+.vscode/
+.idea/
+*.log
+
+# Backend
+/backend/target
+/backend/.mvn
